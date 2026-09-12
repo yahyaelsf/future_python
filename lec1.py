@@ -32,3 +32,5 @@
 # print(min(10 , 20 , 30))
 # name = "yahyapsd.vpsd.v"
 # print(name[1:10:2]) 
+
+name = "yhaya el saftawi"

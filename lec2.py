@@ -51,12 +51,18 @@
 # indx = names.index(value1)
 # names[indx] = new_value
 # print(names)
-cureceis = ["usd" , "eur" , "job" , "tls"]
-valuse = [3.2 , 3.5 , 4.5 , 1.0]
+# cureceis = ["usd" , "eur" , "job" , "tls"]
+# valuse = [3.2 , 3.5 , 4.5 , 1.0]
 
-cur = input("enter your caeuncy :")
-amount = float(input("enter your amount :"))
+# cur = input("enter your caeuncy :")
+# amount = float(input("enter your amount :"))
 
-indx = cureceis.index(cur)
-result = valuse[indx] * amount
-print(f"the total amount is {result} from {cur}")
+# indx = cureceis.index(cur)
+# result = valuse[indx] * amount
+# print(f"the total amount is {result} from {cur}")
+# inventory = {
+#     "laptop": {"price": 800, "stock": 10},
+#     "mouse": {"price": 20, "stock": 50},
+#     "keyboard": {"price": 45, "stock": 30}
+# }
+# print(inventory["laptop"]["price"])
